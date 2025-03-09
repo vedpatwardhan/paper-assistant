@@ -19,7 +19,7 @@ To get started, you'll need to do the following:
 
 3.  **Set the `DATABASE` Environment Variable:**
     *   Create a `.env` file in the root of your project directory.
-    *   Add the `DATABASE` variable to the `.env` file. The value should be the URI to connect to your Neo4j database. (e.g., `DATABASE=bolt://localhost:7687` - check the Neo4j Desktop connection details.)
+    *   Add the `DATABASE` variable to the `.env` file. The value should be the name of your database.
 
 4.  **Get a Google AI Studio API Key:**
     *   Go to [Google AI Studio](https://aistudio.google.com/) and create an account (if you don't already have one).
