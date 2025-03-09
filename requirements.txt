@@ -1,0 +1,8 @@
+beautifulsoup4
+black
+docling
+litellm
+neo4j
+pydantic
+python-dotenv
+tqdm
