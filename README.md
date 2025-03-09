@@ -13,7 +13,7 @@ To get started, you'll need to do the following:
 
 2.  **Create a Neo4j Database:**
     *   Open Neo4j Desktop.
-    *   Create a new DBMS (Database Management System).
+    *   Create a new DBMS.
     *   Inside the DBMS, create a new database (e.g., named `paper_assistant`).
     *   Start the database.
 
